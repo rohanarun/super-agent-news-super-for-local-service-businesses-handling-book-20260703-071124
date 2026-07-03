@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[superhumanagent.ai](https://superhumanagent.ai/)",
+    "[superbench.ai](https://superbench.ai/about-superbench-ai/)",
+    "[completeaitraining.com](https://completeaitraining.com/news/zanderio-launches-real-time-ai-sales-agent-for-service/)",
+    "[techcrunch.com](https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/)",
+    "[blog.google](https://blog.google/)",
+    "[scmedia.com](https://www.scmagazine.com/)",
+    "[securityaffairs.com](https://securityaffairs.com/)"
+  ],
+  "design_plan": "rng=42; AIDA_pass=true; hero_lines=3; bento_density=grid-auto-flow:dense; competitors_mentioned=all; button_contrast=AA; media_aspect_locked=true",
+  "generated_at": "2026-07-03T07:11:31.256060+00:00",
+  "headline": "Super for local service businesses handling bookings, quotes, and customer replies",
+  "site_brief": {
+    "audience": "local service businesses handling bookings, quotes, and customer replies",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "local service businesses handling bookings, quotes, and customer replies AI assistant",
+      "local service businesses handling bookings, quotes, and customer replies personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-local-service-businesses-handling-bookings-quote",
+    "title": "Super for local service businesses handling bookings, quotes, and customer replies"
+  },
+  "summary": "A conversion\u2011focused niche landing page for local service businesses that need an AI agent to answer customers, generate quotes, and complete bookings by actually operating the tools they already use. Super is positioned as the sharper alternative for repeated, real computer\u2011use workflows thanks to its reusable computer-use cache."
+}
